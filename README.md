@@ -20,8 +20,16 @@
 - word classification
 - augmenting 
 
+### Transformer
 
-### TBD
+- Context
+- Self-attention
+
+![Transformer](assets/img/transformer-model-architecture.webp)
+
+
+
+## TBD
 
 - RNN - Recurrent Neural Networks
 
