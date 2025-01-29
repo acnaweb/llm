@@ -2,11 +2,11 @@
 
 ## Concepts
 
+![](assets/img/project_structure.jpeg)
 
 ### Papers
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-
 
 ### Use Cases
 
@@ -26,13 +26,9 @@
 
 ![Transformer](assets/img/transformer-model-architecture.webp)
 
-
-
 ## TBD
 
 - RNN - Recurrent Neural Networks
-
-
 
 ## References
 
